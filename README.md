@@ -1,6 +1,6 @@
 **Install deps:** `yarn install`
-**Start:** `yarn install`
+**Start:** `yarn`
 
-_All configs specified in src/scripts/shared/constants_
+All configs specified in _`src/scripts/shared/constants`_
 
-it will start a demo at http://localhost:8080/
+it will start a demo at _`http://localhost:8080/`_
